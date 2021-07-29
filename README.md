@@ -10,4 +10,4 @@ Program file are labeled as Program XX.yaml correspond to program XX serial numb
 2)
 
 Example:
-![myimage-alt-tag](url-to-image)
+![myimage-alt-tag](https://github.com/AMARJEET-SAINI/Turing-Machine-program-visualization/blob/main/sample.png)
